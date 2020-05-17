@@ -1,7 +1,11 @@
 # snapchat_filters
+
 Implementing fun snapchat_filters with the help of dlib facial_keypoint model.
+
 Despite of being an easy project it is very much fun.
-Firstly we have to be familier with facial_keypoints, that we will be using here,  (i am using a short mr bean's video clip for demostration here, Why?, well i guess because its fun)
+
+Firstly we have to be familier with facial_keypoints, that we will be using here,  (i am using a short mr bean's video clip for 
+demostration here, Why?, well i guess because its fun)
 
 ## Facial_keypoints
 Facial Keypoints are also called Facial Landmarks which generally specify the areas of the nose, eyes, mouth, etc on the face, classified by 68 key points, with coordinates (x, y), for that face. This is how it looks.
@@ -13,11 +17,14 @@ https://towardsdatascience.com/facial-keypoint-detection-detect-relevant-feature
 
 ## Clipart
 Although you can take any clipart you like, just make sure it has a transparent background 😉 
+
 we have used that to create a mask in the code, just to ensure the shape of the clipart is not changed.
+
 we will be using this eye clipart.
 
 ![](https://github.com/RohanSaxena14/snapchat_filters/raw/master/data/Eye.png)
 
-dsadss
+## Output
+The output of this code looks like this:
 
-![](https://github.com/RohanSaxena14/snapchat_filters/raw/master/data/Eye.png)
+![](https://github.com/RohanSaxena14/snapchat_filters/raw/master/data/bean_output.gif)
