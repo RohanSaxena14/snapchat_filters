@@ -25,6 +25,11 @@ we will be using this eye clipart.
 ![](https://github.com/RohanSaxena14/snapchat_filters/raw/master/data/Eye.png)
 
 ## Output
-The output of this code looks like this:
+The output of this code looks like this: 😄✌
 
 ![](https://github.com/RohanSaxena14/snapchat_filters/raw/master/data/bean_output.gif)
+
+connect with me on Linkdin:
+https://www.linkedin.com/in/rohan-saxena-2846a5163/
+
+HAPPY LEARNING !!! 😃
