@@ -11,7 +11,13 @@ Facial Keypoints are also called Facial Landmarks which generally specify the ar
 You can read about facial_keypoints here: 
 https://towardsdatascience.com/facial-keypoint-detection-detect-relevant-features-of-face-in-a-go-using-cnn-your-own-dataset-e09cf359c2bc
 
-
+## Clipart
+Although you can take any clipart you like, just make sure it has a transparent background 😉 
+we have used that to create a mask in the code, just to ensure the shape of the clipart is not changed.
+we will be using this eye clipart.
 
 ![](https://github.com/RohanSaxena14/snapchat_filters/raw/master/data/Eye.png)
+
+dsadss
+
 ![](https://github.com/RohanSaxena14/snapchat_filters/raw/master/data/Eye.png)
