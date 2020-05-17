@@ -1,4 +1,4 @@
-# snapchat_filters
+# snapchat_filters 👽
 
 Implementing fun snapchat_filters with the help of dlib facial_keypoint model.
 
@@ -20,9 +20,15 @@ Although you can take any clipart you like, just make sure it has a transparent 
 
 we have used that to create a mask in the code, just to ensure the shape of the clipart is not changed.
 
-we will be using this eye clipart.
+we will be using this eye clipart. 👀
 
 ![](https://github.com/RohanSaxena14/snapchat_filters/raw/master/data/Eye.png)
+
+## Key_points
+
+All the keypoints are numbered like this, we are concerned with the points around the eyes 👀 for now.
+
+![](https://github.com/RohanSaxena14/snapchat_filters/raw/master/data/facial_landmarks_68markup.jpg)
 
 ## Output
 The output of this code looks like this: 😄✌
