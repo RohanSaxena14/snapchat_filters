@@ -2,7 +2,7 @@
 
 Implementing fun snapchat_filters with the help of dlib facial_keypoint model.
 
-Despite of being an easy project it is very much fun.
+Despite being an easy project it is very much fun.
 
 Firstly we have to be familier with facial_keypoints, that we will be using here,  (i am using a short mr bean's video clip for 
 demostration here, Why?, well i guess because its fun)
